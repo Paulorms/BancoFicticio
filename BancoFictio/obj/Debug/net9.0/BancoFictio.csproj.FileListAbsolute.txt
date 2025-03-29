@@ -1,0 +1,14 @@
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/bin/Debug/net9.0/BancoFictio
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/bin/Debug/net9.0/BancoFictio.deps.json
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/bin/Debug/net9.0/BancoFictio.runtimeconfig.json
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/bin/Debug/net9.0/BancoFictio.dll
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/bin/Debug/net9.0/BancoFictio.pdb
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/obj/Debug/net9.0/BancoFictio.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/obj/Debug/net9.0/BancoFictio.AssemblyInfoInputs.cache
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/obj/Debug/net9.0/BancoFictio.AssemblyInfo.cs
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/obj/Debug/net9.0/BancoFictio.csproj.CoreCompileInputs.cache
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/obj/Debug/net9.0/BancoFictio.dll
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/obj/Debug/net9.0/refint/BancoFictio.dll
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/obj/Debug/net9.0/BancoFictio.pdb
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/obj/Debug/net9.0/BancoFictio.genruntimeconfig.cache
+/home/paulo/RiderProjects/BancoFictio/BancoFictio/obj/Debug/net9.0/ref/BancoFictio.dll
